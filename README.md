@@ -1,7 +1,1 @@
-Sprint 1
-
-sprint 2
-
-sprint 3
-
-sprint 4
+Hello wold my name is joe and this is my readme
