@@ -1,2 +1,3 @@
-Hello World
-Hello wold my name is joe and this is my readme
+# Hello World Project
+
+Just practicing GitHub.
